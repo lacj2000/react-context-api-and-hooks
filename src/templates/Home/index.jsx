@@ -26,7 +26,7 @@ export const Home =  () => {
         </Button>
 
         <Button
-         onButtonClick={()=>actions.setCounter(10)}
+         onButtonClick={()=>actions.setCounter(100)}
         >
           <Textbox size={38} />
         </Button>
